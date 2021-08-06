@@ -1,4 +1,11 @@
-### Hi there 👋
+A simple and effective way to bypass Cloudfare on ANY website. All that is required is to change the target website to whichever website you desire
+Updated and working as of August 2021. $40 USD / license.
+
+Contact me via the following (Telegram for a faster response generally) to purchase;
+
+Telegram: https://t.me/cloudunfare
+
+Email: cloudunfare@gmail.com
 
 <!--
 **CloudUnfare/CloudUnfare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
